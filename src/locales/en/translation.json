@@ -1,0 +1,28 @@
+{
+  "analysis": {
+    "title": "Analysis",
+    "placeholder": "Enter headline...",
+    "button": "Analyze",
+    "loading": "Analyzing...",
+    "result": "Result",
+    "sarcasm": "Sarcasm",
+    "not_sarcasm": "No sarcasm",
+    "probability": "Probability",
+    "confidence": "Confidence",
+    "explanation": "AI Explanation",
+    "no_explanation": "No explanation available"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "total_analyses": "Total Analyses",
+    "sarcastic_count": "Sarcastic Count",
+    "average_probability": "Average Probability",
+    "active_model": "Active Model"
+  },
+  "common": {
+    "search": "Search...",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  }
+}

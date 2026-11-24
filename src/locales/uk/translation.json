@@ -1,0 +1,28 @@
+{
+  "analysis": {
+    "title": "Аналіз заголовка",
+    "placeholder": "Введіть заголовок...",
+    "button": "Проаналізувати",
+    "loading": "Аналізую...",
+    "result": "Результат",
+    "sarcasm": "Сарказм",
+    "not_sarcasm": "Без сарказму",
+    "probability": "Ймовірність",
+    "confidence": "Впевненості",
+    "explanation": "Пояснення ШІ",
+    "no_explanation": "Пояснення недоступне"
+  },
+  "dashboard": {
+    "title": "Головна панель",
+    "total_analyses": "Загальна кількість аналізів",
+    "sarcastic_count": "Кількість саркастичних",
+    "average_probability": "Середня ймовірність",
+    "active_model": "Активна модель"
+  },
+  "common": {
+    "search": "Пошук...",
+    "loading": "Завантаження...",
+    "error": "Помилка",
+    "success": "Успіх"
+  }
+}
